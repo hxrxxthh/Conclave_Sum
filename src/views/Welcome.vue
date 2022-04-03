@@ -7,6 +7,8 @@
 
 <h1>Welcome</h1>
 
+<div>test test</div>
+
 </template>
 
 <style>
