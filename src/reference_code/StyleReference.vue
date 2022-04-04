@@ -16,11 +16,14 @@ font-family: 'Inter', sans-serif;
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 </style>
+
+/* For 'p' text use 14px */
+/* For Signup/login pages h1 use 24px, the form at 18px and everything else at 14px */
+/* eyeball the rest :)) */
 /////////////////////////////
 
 
-
-////// COLOR STYLES ///////
+////// COLOR STYLES /////////
 #FFFFFF
 /* WHITE Please use for TEXT and ICONS */
 #111127
