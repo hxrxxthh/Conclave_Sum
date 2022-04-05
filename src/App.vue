@@ -1,11 +1,11 @@
 <script setup>
 
-
+import Avatar from "./components/Avatar.vue";
 
 </script>
 
 <template>
-<div>hello</div>
+<Avatar />
 <router-view></router-view>
 
 </template>
